@@ -1,6 +1,6 @@
-# Semana06
+# Semana09
 
-Hola Mundo!
+Hola Mundo! Este es mi primera version en el curso de electiva 1
 
 Primaria: https://grmack01.github.io/Semana06.io/
 
